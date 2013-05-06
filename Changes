@@ -1,0 +1,35 @@
+==================================================
+Changes from 2012-05-06 00:00:00 +0000 to present.
+==================================================
+
+----------------------------------------
+version 0.1 at 2013-05-06 06:18:41 +0000
+----------------------------------------
+
+  Change: f7e2c5c1287c850c1db6ab2a99a4437c606fe3c0
+  Author: Tobias Kirschstein <lev@ideegeo.com>
+  Date : 2013-05-06 17:24:44 +0000
+
+    make use of multiple IDs in path 
+
+  Change: 8f776b6ce8af1b0897cdc19390754cbb78efcc17
+  Author: Tobias Kirschstein <lev@ideegeo.com>
+  Date : 2013-05-03 05:36:37 +0000
+
+    added README.pod for github 
+
+  Change: 91cc99f73af67baea2c24811a9fb52c71a6c483b
+  Author: Tobias Kirschstein <lev@ideegeo.com>
+  Date : 2013-05-03 05:35:56 +0000
+
+    migrated to dist::zilla 
+
+  Change: 7cbc9659c4cec1b1d70671b3847b4227b670a2eb
+  Author: Tobias Kirschstein <lev@ideegeo.com>
+  Date : 2013-03-06 09:49:38 +0000
+
+    first version 
+
+================
+End of releases.
+================
