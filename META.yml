@@ -20,4 +20,4 @@ resources:
   bugtracker: https://github.com/nupfel/WebService-Desk/issues
   homepage: https://github.com/nupfel/WebService-Desk/wiki
   repository: git://github.com/nupfel/WebService-Desk.git
-version: 0.3
+version: 0.4

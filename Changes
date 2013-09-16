@@ -3,7 +3,29 @@ Changes from 2012-09-16 00:00:00 +0000 to present.
 ==================================================
 
 ----------------------------------------
-version 0.3 at 2013-09-16 20:04:57 +0000
+version 0.4 at 2013-09-16 21:16:50 +0000
+----------------------------------------
+
+  Change: e72a45f336f3e9b06264b69cce42aba71879ce16
+  Author: Tobias Kirschstein <lev@ideegeo.com>
+  Date : 2013-09-16 16:16:32 +0000
+
+    version bump 
+
+  Change: ded1060ec3d73b5c15dc346610b005a60bfad187
+  Author: Tobias Kirschstein <lev@ideegeo.com>
+  Date : 2013-09-16 16:16:26 +0000
+
+    use oauth headers instead and disabled oauth post body 
+
+  Change: 1ff3a062125d9e8fd4f8e8b6e6b1da8316b4228c
+  Author: Tobias Kirschstein <lev@ideegeo.com>
+  Date : 2013-09-16 15:05:05 +0000
+
+    v0.3 
+
+----------------------------------------
+version 0.3 at 2013-09-16 20:04:45 +0000
 ----------------------------------------
 
   Change: 44969f54032fa239b60f5f8ae5b4963c0b1884ad
