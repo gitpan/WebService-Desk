@@ -1,7 +1,7 @@
 
 
 This archive contains the distribution WebService-Desk,
-version 0.4:
+version 0.5:
 
   WebService::Desk - an interface to desk.com's RESTful Web API using Web::API
 

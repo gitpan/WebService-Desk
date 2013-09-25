@@ -1,9 +1,20 @@
 ==================================================
-Changes from 2012-09-16 00:00:00 +0000 to present.
+Changes from 2012-09-25 00:00:00 +0000 to present.
 ==================================================
 
 ----------------------------------------
-version 0.4 at 2013-09-16 21:16:50 +0000
+version 0.5 at 2013-09-25 21:58:33 +0000
+----------------------------------------
+
+  Change: d0a3309f43e8c164bb1550bd0590546bb8088796
+  Author: Tobias Kirschstein <lev@ideegeo.com>
+  Date : 2013-09-25 16:58:19 +0000
+
+    apparently PATCH requests do not work with oauth 1.0a. using the
+    alternative header suggested by Desk.com 
+
+----------------------------------------
+version 0.4 at 2013-09-16 21:16:32 +0000
 ----------------------------------------
 
   Change: e72a45f336f3e9b06264b69cce42aba71879ce16
