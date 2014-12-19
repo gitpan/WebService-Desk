@@ -1,94 +1,23 @@
 ==================================================
-Changes from 2012-09-25 00:00:00 +0000 to present.
+Changes from 2013-12-19 00:00:00 +0000 to present.
 ==================================================
 
 ----------------------------------------
-version 0.5 at 2013-09-25 21:58:33 +0000
+version 0.6 at 2014-12-19 01:18:16 +0000
 ----------------------------------------
 
-  Change: d0a3309f43e8c164bb1550bd0590546bb8088796
+  Change: 4fa39acd131d259d13bb2b4ea7ce6e7228d5808a
   Author: Tobias Kirschstein <lev@ideegeo.com>
-  Date : 2013-09-25 16:58:19 +0000
-
-    apparently PATCH requests do not work with oauth 1.0a. using the
-    alternative header suggested by Desk.com 
-
-----------------------------------------
-version 0.4 at 2013-09-16 21:16:32 +0000
-----------------------------------------
-
-  Change: e72a45f336f3e9b06264b69cce42aba71879ce16
-  Author: Tobias Kirschstein <lev@ideegeo.com>
-  Date : 2013-09-16 16:16:32 +0000
+  Date : 2014-12-18 23:42:41 +0000
 
     version bump 
 
-  Change: ded1060ec3d73b5c15dc346610b005a60bfad187
+  Change: 6256269ea75396292797d147c47617740351a017
   Author: Tobias Kirschstein <lev@ideegeo.com>
-  Date : 2013-09-16 16:16:26 +0000
+  Date : 2014-12-18 23:42:05 +0000
 
-    use oauth headers instead and disabled oauth post body 
+    make use of Web:API 2.2 error keys feature 
 
-  Change: 1ff3a062125d9e8fd4f8e8b6e6b1da8316b4228c
-  Author: Tobias Kirschstein <lev@ideegeo.com>
-  Date : 2013-09-16 15:05:05 +0000
-
-    v0.3 
-
-----------------------------------------
-version 0.3 at 2013-09-16 20:04:45 +0000
-----------------------------------------
-
-  Change: 44969f54032fa239b60f5f8ae5b4963c0b1884ad
-  Author: Tobias Kirschstein <lev@ideegeo.com>
-  Date : 2013-09-16 15:04:45 +0000
-
-    fixed create call paths 
-
-----------------------------------------
-version 0.2 at 2013-09-16 19:15:05 +0000
-----------------------------------------
-
-  Change: 7680c57e801eb7cbb9594663006be5dcfb3492ba
-  Author: Tobias Kirschstein <lev@ideegeo.com>
-  Date : 2013-09-16 14:15:05 +0000
-
-    version bump 
-
-  Change: 3bad8f959bacef4d21005b555704ffee8301524d
-  Author: Tobias Kirschstein <lev@ideegeo.com>
-  Date : 2013-09-16 14:14:27 +0000
-
-    updated to Desk API V2 
-
-----------------------------------------
-version 0.1 at 2013-05-06 05:24:44 +0000
-----------------------------------------
-
-  Change: f7e2c5c1287c850c1db6ab2a99a4437c606fe3c0
-  Author: Tobias Kirschstein <lev@ideegeo.com>
-  Date : 2013-05-06 17:24:44 +0000
-
-    make use of multiple IDs in path 
-
-  Change: 8f776b6ce8af1b0897cdc19390754cbb78efcc17
-  Author: Tobias Kirschstein <lev@ideegeo.com>
-  Date : 2013-05-03 05:36:37 +0000
-
-    added README.pod for github 
-
-  Change: 91cc99f73af67baea2c24811a9fb52c71a6c483b
-  Author: Tobias Kirschstein <lev@ideegeo.com>
-  Date : 2013-05-03 05:35:56 +0000
-
-    migrated to dist::zilla 
-
-  Change: 7cbc9659c4cec1b1d70671b3847b4227b670a2eb
-  Author: Tobias Kirschstein <lev@ideegeo.com>
-  Date : 2013-03-06 09:49:38 +0000
-
-    first version 
-
-================
-End of releases.
-================
+================================================
+Plus 5 releases after 2013-12-19 00:00:00 +0000.
+================================================

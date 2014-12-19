@@ -5,7 +5,7 @@ use Mouse;
 
 # ABSTRACT: WebService::Desk - an interface to desk.com's RESTful Web API using Web::API
 
-our $VERSION = '0.5'; # VERSION
+our $VERSION = '0.6'; # VERSION
 
 with 'Web::API';
 
@@ -283,6 +283,7 @@ sub BUILD {
     $self->base_url('https://' . $self->user . '.desk.com/api/v2');
     $self->auth_type('oauth_header');
     $self->oauth_post_body(0);
+    $self->error_keys(['message']);
 
     return $self;
 }
@@ -294,13 +295,15 @@ __END__
 
 =pod
 
+=encoding UTF-8
+
 =head1 NAME
 
 WebService::Desk - WebService::Desk - an interface to desk.com's RESTful Web API using Web::API
 
 =head1 VERSION
 
-version 0.5
+version 0.6
 
 =head1 SYNOPSIS
 
